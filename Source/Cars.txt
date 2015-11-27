@@ -1,0 +1,54 @@
+ADW4WD
+ - Jeep Wrangler
+ - Ford F150
+ - Chevrolet Silverado
+ 
+Convertible
+ - BMW 3 Series
+ - Ford Mustang
+ - Chevrolet Corvette
+ 
+Coupe
+ - Ford Mustang
+ - Chevrolet Camaro
+ - Chevrolet Corvette
+ 
+Hatchback
+ - Toyota Prius
+ - Ford Focus
+ - Honda Fit
+ 
+Hybrid
+ - Toyota Prius
+ - Toyota Camry
+ - Ford Fusion
+ 
+Luxury
+ - BMW 3 Series
+ - BMW X Series
+ - Mercedes Benz C-Class
+ 
+Sedan
+ - Honda Accord
+ - Toyota Camry
+ - Nissan Altima
+ 
+SUV
+ - Jeep Wrangler
+ - Honda CR-V
+ - Jeep Grand Cherokee
+ 
+Truck
+ - Ford F150
+ - Chevrolet Silverado
+ - RAM 1500
+ 
+Van
+ - Toyota Sienna
+ - Honda Odyssey
+ - Chrysler Town & Country
+ 
+Wagon
+ - Subaru Outback
+ - Toyota Prius V
+ - Kia Soul

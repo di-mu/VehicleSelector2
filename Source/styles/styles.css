@@ -1,0 +1,87 @@
+/* -- Element Selector using the tag name -- */
+body{
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	background:#f5f5f5;
+}
+ul {
+	list-style-type: none;
+}
+a {
+	color: blue;
+}
+/* -- Class Selector using a '.' -- */
+.logo{
+	width:150px;
+	float:left;
+}
+.navbar {
+    float: left;
+	font-size: 20px;
+	display: block;
+	border: 1px solid black;
+	text-align: center;
+}
+.navlink {
+	text-decoration: none;
+}
+.icon{
+	float:left;
+	width:50px;
+}
+.menu {
+    float: left;
+	font-size: 18px;
+	width: 80px;
+	display: block;
+	border: 1px solid black;
+	text-align: center;
+}
+.vehicle-stats {
+	padding: 10px;
+	border: 1px solid black;
+}
+.vehicle-image{
+	width:300px;
+}
+.vehicle-image img{
+	width:100%;
+}
+.hidden{
+	display:none;
+}
+.float-left{
+	float:left;
+}
+.float-right{
+	float:right;
+}
+/* -- ID Selector using a '#' -- */
+#mainContent{
+	background:#f5f5f5;
+}
+#left-col{
+	float:left;
+	width:25%;
+	height:700px;
+	padding-left:30px;
+	box-sizing: border-box;
+}
+#middle-col{
+	float:left;
+	width:50%;
+}
+#right-col{
+	float:left;
+	width:25%;
+}
+#vehicleSelector{
+	float:left;
+}
+#footer {
+	clear:both;
+	float:left;
+	width:90%;
+	border-top:1px solid #000;
+	padding:10px;
+	margin:0;
+}
